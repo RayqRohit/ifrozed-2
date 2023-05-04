@@ -1,0 +1,87 @@
+.carousel-item{
+    height: 600px;
+    /* object-fit: cover; */
+}
+
+.spacing{
+    padding: 15px 12px;
+    font-size: 17px;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.icon{
+  padding-right: 8px;
+}
+
+.carousel-img{
+   
+    /* background-position: center; */
+    /* background-attachment: fixed; */
+    height: 700px;
+    object-fit: cover;
+}
+
+.some-height{
+    /* padding-top: 35px; */
+    position: absolute;
+    padding-bottom: 3.75rem;
+}
+
+.navbar-brand{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.goku-bg{
+    background-color: black;
+}
+
+h3{
+    font-weight: bold;   
+    /* font-family: 'Poppins', sans-serif; */
+}
+
+.change-ht{
+    height: 400px;
+    width: 400px;
+   object-fit: cover;
+   margin-bottom: 2rem;
+   border: solid;
+   border-radius: 2px;
+}
+
+.next-container{
+    padding-left: 9%;
+    padding-right: 9%;
+}
+
+#foot{
+  
+margin: auto;
+padding-left: 8.75rem;
+background-color: #f1f0f0;
+ 
+}
+
+
+
+.about-pad{
+    padding: 0px 12px;
+    margin: 0px 12px;
+}
+
+h1{
+    font-size: 1.5rem;
+}
+
+.close{
+    font-size: 1.7rem;
+}
+
+.modal-header{
+    background-color: #dcdcdc;
+}
+
